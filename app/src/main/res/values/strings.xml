@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Hola_Usuario</string>
+    <string name="txtView_HolaUsuario">Escriba su nombre</string>
+    <string name="nombre">Aquí</string>
+    <string name="Aceptar">aceptar</string>
+    <string name="saludo">Bienvenido</string>
+    <string name="noNameMsg">El campo no puede quedar vacio</string>
+    <string name="imagenAmigos">amigos</string>
+    <string name="txtParaIngresar">Para ingresar</string>
+    <string name="amisdedis2">amidedis2</string>
+
+</resources>
